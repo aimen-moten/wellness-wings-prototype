@@ -1,5 +1,9 @@
 # This project was created for the [BeeLikeCoders 2.0](https://beelikecoders-2023.devpost.com/) Hackathon by Prabesh Bista and myself. We secured the **runner-up** position.
 
+
+[![Watch the video](https://youtu.be/1h8adVtM75Y)
+
+
 # Inspiration
 Our inspiration to build this app was our personal experience with counseling services and lack of peer support at our educational institution. As international students studying in a small liberal arts college, it is very hard for us to adjust to our surroundings. Our fellow international students have often communicated to us how they lack emotional support and feel like they lack a sense of belonging. Furthermore, we have found that several students have had an unsatisfactory experience with counseling services due to lack of diversity amongst available professionals. Students have also raised their concerns about not having enough community events or group activities that focus on improving their physical health.
 
