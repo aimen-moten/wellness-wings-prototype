@@ -1,8 +1,7 @@
 # This project was created for the [BeeLikeCoders 2.0](https://beelikecoders-2023.devpost.com/) Hackathon by Prabesh Bista and myself. We secured the **runner-up** position.
 
 
-<a href="https://youtu.be/1h8adVtM75Y" target="_blank">
- <img src=![WellnessWings](https://github.com/aimen-moten/wellness-wings-prototype/assets/115741361/313b6a5b-43e6-4124-95ec-f70671d86a11) alt="Watch the video" width="240" height="180" border="10" />
+![WellnessWings](https://github.com/aimen-moten/wellness-wings-prototype/assets/115741361/313b6a5b-43e6-4124-95ec-f70671d86a11) 
 
 </a>
 
