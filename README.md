@@ -1,7 +1,9 @@
 # This project was created for the [BeeLikeCoders 2.0](https://beelikecoders-2023.devpost.com/) Hackathon by Prabesh Bista and myself. We secured the **runner-up** position.
 
 
-![Watch the video](https://youtu.be/1h8adVtM75Y)
+<a href="https://youtu.be/1h8adVtM75Y" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 
 # Inspiration
